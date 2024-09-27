@@ -1,0 +1,6 @@
+Para generar un jar se puede realizar con el mvnw.cmd en windows y mvnw en linux o mac
+Primero se debe de realizar un clear si hubo un generacion anterior
+    ./mvnw.cmd clean 
+Luego para generar el jar es:
+    ./mvnw.cmd package
+
